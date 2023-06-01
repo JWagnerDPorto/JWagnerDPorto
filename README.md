@@ -4,7 +4,7 @@
 
 ![WagnerDPorto GitHub stats](https://github-readme-stats.vercel.app/api?username=JWagnerDPorto&show_icons=true&theme=tokyonight)<br/>
 
-[![WagnerDPorto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)<br/>
+[![WagnerDPorto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JWagnerDPorto&theme=blue-green)<br/>
 
 ### Tecnologias que estou estudando 
 
