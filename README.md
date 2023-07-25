@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou JWagner DPorto 🖐️😁!!! 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-dporto-816144258)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jwagner-dporto-816144258)
 
 ![JWagnerDPorto](https://github-readme-stats.vercel.app/api?username=JWagnerDPorto&show_icons=true&theme=tokyonight&custom_title=JWagnerDPorto&card_width=470px&rank_icon=github)<br/>
 ![JWagnerDPorto](https://github-readme-stats.vercel.app/api/top-langs/?username=JWagnerDPorto&theme=tokyonight&custom_title=Linguagens_mais_usadas&langs_count=10&card_width=470px)<br/>
