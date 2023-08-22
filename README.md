@@ -16,6 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JWagnerDPorto&bg_color=000&border_color=30A3DC&custom_title=LinguagensMaisUsadas&title_color=E94D5F&text_color=FFF&card_width=450px)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JWagnerDPorto&bg_color=000&border_color=30A3DC&custom_title=LinguagensMaisUsadas&langs_count=10&title_color=E94D5F&text_color=FFF&card_width=450px)
 
 Em transição de carreira 😁 ....<br/>
