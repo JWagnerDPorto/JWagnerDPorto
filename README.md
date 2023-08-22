@@ -1,24 +1,21 @@
-## Olá!!! Eu sou JWagner DPorto 🖐️😁!!! 
+# Olá!!! Eu sou JWagner DPorto 🖐️😁!!! 
+## Conecte-se comigo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwagner-dporto-816144258)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jwagner-dporto-816144258)
 
-![JWagnerDPorto](https://github-readme-stats.vercel.app/api?username=JWagnerDPorto&show_icons=true&theme=tokyonight&custom_title=JWagnerDPorto&card_width=450px&rank_icon=github)<br/>
-![JWagnerDPorto](https://github-readme-stats.vercel.app/api/top-langs/?username=JWagnerDPorto&theme=tokyonight&custom_title=Linguagens_mais_usadas&langs_count=10&card_width=450px)<br/>
+## Status GitHub
 
-### Tecnologias que estou estudando no momento
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JWagnerDPorto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&custom_title=JWagnerDPorto&card_width=450px&rank_icon=github)
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
+## Tecnologias que estou estudando no momento
 
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=C3002F)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JWagnerDPorto&bg_color=000&border_color=30A3DC&custom_title=LinguagensMaisUsadas&title_color=E94D5F&text_color=FFF&card_width=450px)
 
-Em transição de carreira,<br/>
-estudando, manhã, tarde e noite 😅....<br/>
+Em transição de carreira 😁 ....<br/>
